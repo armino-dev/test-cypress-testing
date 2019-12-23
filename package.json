@@ -1,0 +1,37 @@
+{
+    "name": "test-cypress-testing",
+    "title": "Test cypress testing",
+    "version": "1.0.0",
+    "description": "Sample code to see how cypress testing is working",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "cy:open": "cypress open",
+        "cy:run": "cypress run"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/armino-dev/test-cypress-testing.git"
+    },
+    "keywords": [
+        "javascript",
+        "jquery",
+        "cypress",
+        "test"
+    ],
+    "author": {
+        "name": "Armino Popp, <devel@boioiong.com>",
+        "url": "https://github.com/armino-dev/test-cypress-testing"
+    },
+    "dependencies": {
+        "jquery": ">=1.7.0 <4.0.0"
+    },
+    "devDependencies": {
+        "cypress": "^3.8.0"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/armino-dev/test-cypress-testing/issues"
+    },
+    "homepage": "https://github.com/armino-dev/test-cypress-testing#readme"
+}

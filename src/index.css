@@ -1,0 +1,19 @@
+.container{
+  display:flex;
+  flex-direction: column;
+  padding:20px;
+  background-color:#eef;
+}
+
+button{
+  padding:10px 0;
+  font-size: 1rem;
+  background-color:#fdd;
+}
+
+#toBeErased{
+  padding:10px;
+  border:1px solid #ffdddd;
+  background-color:#ffccdd;
+  margin-bottom:20px;
+}
